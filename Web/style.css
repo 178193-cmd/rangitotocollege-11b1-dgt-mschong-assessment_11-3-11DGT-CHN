@@ -1,5 +1,5 @@
 body {
-    background-color: #8dbdee;
+    background-color: #013A63;
 }
 
 .navbar {
@@ -11,8 +11,8 @@ body {
 
 .nav-button {
     padding: 10px 20px;
-    background-color: aquamarine;
-    color: black;
+    background-color: #F5E6CA;
+    color: #FF7F51;
     border: none;
     border-radius: 5px;
     font-size: 16px;
@@ -32,8 +32,8 @@ body {
 .grid {
     border-radius: 20px;
     padding: 60px 40px;
-    background-color: #90EE90;
-    color: black;
+    background-color: #F5E6CA;
+    color: #FF7F51;
     font-size: 18px;
     text-align: center;
     display: flex;
@@ -43,7 +43,7 @@ body {
 
 .grid a {
     text-decoration: none;
-    color: black;
+    color: #FF7F51;
     font-size: 22px;
     font-weight: bold;
 }
