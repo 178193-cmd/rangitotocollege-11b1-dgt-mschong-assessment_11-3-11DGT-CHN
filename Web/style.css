@@ -29,20 +29,21 @@ body {
     margin: 0 auto;
 }
 
-.grid{
-    border-radius: 10px;
-    overflow: hidden;
-    padding: 10px 20px;
-    background-color: #f0f0f0;
-    color: rgb(0, 0, 0);
-    border: none;
-    font-size: 16px;
+.grid {
+    border-radius: 20px;
+    padding: 60px 40px;
+    background-color: #90EE90;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid a {
     text-decoration: none;
-    display: inline-block;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
 }
-
-h2{
-    margin-top: 0;
-    font-size: 28px;
-}
-
