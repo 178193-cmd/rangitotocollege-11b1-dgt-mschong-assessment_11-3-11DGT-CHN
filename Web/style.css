@@ -53,5 +53,13 @@ h1{
     text-align: center;
     color: #000000;
     margin-top: 40px;
-    font-size: 36px;
+    font-size: 42px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 75%;
+    height: auto;
+    border-radius: 15px;
 }
